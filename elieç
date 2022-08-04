@@ -1,0 +1,28 @@
+printf "N dos candidatos"
+printf "1-joão 2-maria 3-carlos 4-branco/nulo
+
+candidato1 = 889
+candidato2 =  847
+candidato3 =  847
+candidatobranco = 0
+
+n1= int(input("digite seu voto;")
+if n1==1;
+printf ("votou no joão")
+candidato1=candidato1+1
+
+elif n1==2
+printf ("votou na maria")
+candidato1=candidato2+1
+
+elif n1==3
+printf ("votou no carlos")
+candidato1=candidato3+1
+
+elif n1==4
+printf ("votou em branco")
+candidato1=candidato4+1
+
+printf ("deseja finalizar votação?")
+
+
